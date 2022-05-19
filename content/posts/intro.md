@@ -5,3 +5,10 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Usa este post para anotar tus expectativas de la misión.
+
+Para mi La cultura en el desarrollo de software se basa en:
+
+- En el respeto
+- Confianza
+- solidaridad
+- Ayuda mutua
